@@ -1,0 +1,672 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js
+File Name: C:\Downloaded Web Sites\uniangola.blog\ajax\libs\qrcode-generator\1.4.4\qrcode.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\uniangola.blog\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap
+File Name: C:\Downloaded Web Sites\uniangola.blog\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\uniangola.blog\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\uniangola.blog\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\uniangola.blog\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\uniangola.blog\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\uniangola.blog\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\lato\v25\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\lato\v25\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\lato\v25\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\lato\v25\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\lato\v25\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\lato\v25\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\lato\v25\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\lato\v25\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\lato\v25\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\lato\v25\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\poppins\v24\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\uniangola.blog\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://uniangola.blog/
+File Name: C:\Downloaded Web Sites\uniangola.blog\index.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-11.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=10000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=100000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-6.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=15000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-1.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=20000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-2.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=3000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-8.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=30000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-3.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=4000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-9.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=5000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-7.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=50000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-4.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=7000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-10.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/checkout/?preco=75000
+File Name: C:\Downloaded Web Sites\uniangola.blog\checkout\index-5.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/comments/feed/
+File Name: C:\Downloaded Web Sites\uniangola.blog\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://uniangola.blog/feed/
+File Name: C:\Downloaded Web Sites\uniangola.blog\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://uniangola.blog/home-2/
+File Name: C:\Downloaded Web Sites\uniangola.blog\home-2\index.htm
+Content Type: text/html
+
+Uri: https://uniangola.blog/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.23.3
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.32.5
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.32.5
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.32.5
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.32.5
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css?ver=3.32.5
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\plugins\elementor\assets\css\widget-nested-tabs.min.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/plugins/elementor/assets/css/widget-progress.min.css?ver=3.32.5
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\plugins\elementor\assets\css\widget-progress.min.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=3.32.5
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\plugins\elementor\assets\css\widget-video.min.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\themes\twentytwentyfive\assets\fonts\fira-code\FiraCode-VariableFont_wght.woff2
+Content Type: font/woff2
+
+Uri: https://uniangola.blog/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\themes\twentytwentyfive\assets\fonts\manrope\Manrope-VariableFont_wght.woff2
+Content Type: font/woff2
+
+Uri: https://uniangola.blog/wp-content/themes/twentytwentyfive/style.css?ver=1.3
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\themes\twentytwentyfive\style.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/05meningitis-span-articleLarge-1.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\05meningitis-span-articleLarge-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/13.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\13.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/7.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\7.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/Angola_Ln_–_UNI_Angola.mp4
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\Angola_Ln_–_UNI_Angola.mp4
+Content Type: video/mp4
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/Bann-1.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\Bann-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/Banner.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\Banner.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/checkout_banner_20251022_191916_537302-1024x158.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\checkout_banner_20251022_191916_537302-1024x158.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/checkout_banner_20251022_191916_537302-1536x237.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\checkout_banner_20251022_191916_537302-1536x237.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/checkout_banner_20251022_191916_537302-300x46.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\checkout_banner_20251022_191916_537302-300x46.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/checkout_banner_20251022_191916_537302-768x119.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\checkout_banner_20251022_191916_537302-768x119.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/checkout_banner_20251022_191916_537302.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\checkout_banner_20251022_191916_537302.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/download-1.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\download-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/download-2.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\download-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/download-3.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\download-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/download-4.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\download-4.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/download-5.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\download-5.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/download.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\download.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/pedro_henrique.webp
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\pedro_henrique.webp
+Content Type: image/webp
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/PHOTO-2020-05-11-10-51-50-2.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\PHOTO-2020-05-11-10-51-50-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/Pp-1.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\Pp-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/Pp-2.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\Pp-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/Pp-3.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\Pp-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/save-Editado.png
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\save-Editado.png
+Content Type: image/png
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/Screenshot_45-295x300.png
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\Screenshot_45-295x300.png
+Content Type: image/png
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/Screenshot_45.png
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\Screenshot_45.png
+Content Type: image/png
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/SELO.webp
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\SELO.webp
+Content Type: image/webp
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/sos-madagascar_editada_2024-5-1-1-1024x546-1.jpeg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\sos-madagascar_editada_2024-5-1-1-1024x546-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/uma-mulher-linda-em-casa_1048944-545753-150x150.webp
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\uma-mulher-linda-em-casa_1048944-545753-150x150.webp
+Content Type: image/webp
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/Uni-Ang.png
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\Uni-Ang.png
+Content Type: image/png
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/UNI213059-1-1024x682-1.jpg
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\UNI213059-1-1024x682-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uniangola.blog/wp-content/uploads/2025/10/young-woman-in-sunlight-150x150.webp
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\2025\10\young-woman-in-sunlight-150x150.webp
+Content Type: image/webp
+
+Uri: https://uniangola.blog/wp-content/uploads/elementor/css/post-134.css?ver=1763662911
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\elementor\css\post-134.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/uploads/elementor/css/post-5.css?ver=1763662910
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/uploads/elementor/css/post-70.css?ver=1763662932
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\elementor\css\post-70.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/uploads/elementor/css/post-73.css?ver=1763662932
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\elementor\css\post-73.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/uploads/elementor/css/post-76.css?ver=1763662932
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\elementor\css\post-76.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/uploads/elementor/css/post-79.css?ver=1763662932
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\elementor\css\post-79.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/uploads/elementor/css/post-82.css?ver=1763663054
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\elementor\css\post-82.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/uploads/elementor/css/post-91.css?ver=1763663118
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\elementor\css\post-91.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-content/uploads/elementor/css/post-97.css?ver=1763663205
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-content\uploads\elementor\css\post-97.css
+Content Type: text/css
+
+Uri: https://uniangola.blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://uniangola.blog/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://uniangola.blog/wp-json/
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://uniangola.blog/wp-json/oembed/1.0/embed?url=https:%2F%2Funiangola.blog%2F
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://uniangola.blog/wp-json/oembed/1.0/embed?url=https:%2F%2Funiangola.blog%2F&format=xml
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://uniangola.blog/wp-json/oembed/1.0/embed?url=https:%2F%2Funiangola.blog%2Fcheckout%2F
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://uniangola.blog/wp-json/oembed/1.0/embed?url=https:%2F%2Funiangola.blog%2Fcheckout%2F&format=xml
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://uniangola.blog/wp-json/oembed/1.0/embed?url=https:%2F%2Funiangola.blog%2Fhome-2%2F
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://uniangola.blog/wp-json/oembed/1.0/embed?url=https:%2F%2Funiangola.blog%2Fhome-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://uniangola.blog/wp-json/wp/v2/pages/82
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-json\wp\v2\pages\82
+Content Type: application/json
+
+Uri: https://uniangola.blog/wp-json/wp/v2/pages/91
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-json\wp\v2\pages\91
+Content Type: application/json
+
+Uri: https://uniangola.blog/wp-json/wp/v2/pages/97
+File Name: C:\Downloaded Web Sites\uniangola.blog\wp-json\wp\v2\pages\97
+Content Type: application/json
+
+Uri: https://uniangola.blog/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\uniangola.blog\xmlrpc.php
+Content Type: text/xml
+
